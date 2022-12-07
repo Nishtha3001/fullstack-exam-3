@@ -6,3 +6,4 @@ function showinput(){
 }
 
 var text= document.getElementsByClassName("textarea").value;
+var container_text = document.getElementsByClassName('text');
